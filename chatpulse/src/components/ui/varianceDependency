@@ -1,0 +1,2 @@
+
+the dependency class-variance-authority is a dependency that allows us to write classes which allows us to write classes which we can use where ever we render the button, the button will accepts the props based on whatever the req may be and according to that the button will render itself .
