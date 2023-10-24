@@ -1,5 +1,4 @@
-# ChatPulse
-
+# ChatAppDemo
 
 Steps 
 	1. make a repo on Github 
@@ -14,5 +13,4 @@ Steps
 	6. for makeing ui for global use install class-variance-authority 
 	7. npm i lucide-react
 	8. npm i clsx tailwind-merge
-	
-
+ 	9. My steps on creating the project is written in another README file inside the chatDemoApp folder 
