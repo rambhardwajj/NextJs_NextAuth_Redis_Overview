@@ -1,4 +1,4 @@
-# ChatAppDemo
+# NextJs Overview + NextAuth + Redis 
 
 Steps 
 	1. make a repo on Github 
