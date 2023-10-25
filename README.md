@@ -1,4 +1,4 @@
-# NextJs Overview + NextAuth + Redis 
+# NextJs Overview + NextAuth + Redis + Google O-Auth 
 Steps 
 	I. Setting up PROJECT and INSTALLING dependencies ----------------------------
 
